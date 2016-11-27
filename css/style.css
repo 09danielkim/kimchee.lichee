@@ -314,7 +314,7 @@ img.with-border{
 #nav-bar{
 	position:relative;
 	height:145px;
-	width:100%;
+	width:100 %;
 	z-index:1000;
 	
 }
