@@ -216,7 +216,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
 
 h1 a:hover, h2 a:hover, h3 a:hover, 
 h4 a:hover, h5 a:hover, h6 a:hover{
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 h1, h2, h3,
@@ -481,7 +481,7 @@ img.with-border{
   	font-weight: normal;
   	font-size:10px;
 	content: '\e9bd';
-	color:#ffbeb6;
+	color:#FFD1CB;
 	text-align:center;
 }
 
@@ -498,7 +498,7 @@ img.with-border{
 }
 
 #nav-menu > li a:hover{
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 /* 03.1.1 Transparent 							 */
@@ -508,7 +508,7 @@ img.with-border{
 }
 
 .transparent #nav-menu > li a:hover{
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 .transparent.stick-it #nav-menu > li a{
@@ -540,7 +540,7 @@ img.with-border{
 	list-style-type:none;
 	padding:0;
 	text-align:left;
-	border-top:solid 3px #ffbeb6
+	border-top:solid 3px #FFD1CB
 }
 
 #nav-menu li:hover > ul{
@@ -560,7 +560,7 @@ img.with-border{
 }   
 
 #nav-menu ul li a:hover{
-	background-color:#ffbeb6;
+	background-color:#FFD1CB;
 	border:none;
 	color:#FFF;
 }
@@ -686,7 +686,7 @@ img.with-border{
 }
 
 #menu-icon a:hover i{
-	color:#ffbeb6
+	color:#FFD1CB
 }
 
 #menu-icon.white a i{
@@ -695,7 +695,7 @@ img.with-border{
 }
 
 #menu-icon.white a:hover i{
-	color:#ffbeb6
+	color:#FFD1CB
 }
 
 
@@ -723,7 +723,7 @@ img.with-border{
 }
 
 #sticky-menuicon a:hover{
-	background-color:#ffbeb6;
+	background-color:#FFD1CB;
 }
 
 #sticky-menuicon a:hover i{
@@ -780,7 +780,7 @@ img.with-border{
 }
 
 #close-button:hover i{
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 /* 04.3.3 Parent Menu */
@@ -802,7 +802,7 @@ img.with-border{
   	font-weight: normal;
   	font-size:10px;
 	content: '\e9bd';
-	color:#ffbeb6;
+	color:#FFD1CB;
 	text-align:center;
 	vertical-align:middle;
 	padding-right:10px;
@@ -817,7 +817,7 @@ img.with-border{
 }
 
 #side-nav-menu > li a:hover{
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 /* 04.3.4 Child Menu */
@@ -879,7 +879,7 @@ img.with-border{
 	width:100%; 
 	height:100%; 
 	border-radius:0%; 
-	background-color:#ffbeb6; 
+	background-color:#FFD1CB; 
 	color:#FFF; 
 	text-align:center; 
 	font-family: 'Arvo', serif;
@@ -1081,7 +1081,7 @@ img.with-border{
 }
 
 .pink-dot{
-	color: #ffbeb6; 
+	color: #FFD1CB; 
 }
 
 /* ----------------------------------------------*/
@@ -1268,7 +1268,7 @@ img.with-border{
 }
 
 .sidebar-menu li a:hover{
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 .side-tab{
@@ -1322,7 +1322,7 @@ img.with-border{
 	left:0; 
 	right:0; 
 	top:-12px;
-	color:#ffbeb6 !important; 
+	color:#FFD1CB !important; 
 	background-color:#e1dddd !important;
 }
 
@@ -1482,7 +1482,7 @@ hr.line-divider{
 }*/
 
 .pink-heart{
-	color:#ffbeb6; 
+	color:#FFD1CB; 
 	font-size:18px; 
 	position:relative; 
 	z-index:3
@@ -1523,8 +1523,8 @@ a.de-button.outline, span.de-button.outline, input[type=submit].outline{
 }
 
 a.de-button.reverse, span.de-button.reverse, input[type=submit].reverse{
-	background-color:#ffbeb6; 
-	border:solid 1px #ffbeb6;
+	background-color:#FFD1CB; 
+	border:solid 1px #FFD1CB;
 	color:#FFF;
 }
 
@@ -1544,8 +1544,8 @@ a.de-button.large, span.de-button.large, input[type=submit].large{
 }
 
 a.de-button:hover, input[type=submit]:hover{
-	background-color:#ffbeb6;
-	border-color:#ffbeb6;
+	background-color:#FFD1CB;
+	border-color:#FFD1CB;
 	color:#FFF;
 	text-decoration:none;
 }
@@ -1644,7 +1644,7 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 	font-family: "fontello";
 	position:absolute;
 	font-size:22px;
-	color:#ffbeb6;
+	color:#FFD1CB;
 	content:"\e806";
 	top:-17px;
 	left:0;
@@ -1801,11 +1801,11 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 }
 
 .de-icon.default.reverse{
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 a:hover .de-icon.default, a:hover .de-icon.default.light{
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 a:hover .de-icon.default.reverse{
@@ -1832,7 +1832,7 @@ a:hover .de-icon.default.light.reverse{
 }
 
 .de-icon.square.reverse, .de-icon.circle.reverse, .de-icon.rounded.reverse{
-	background-color:#ffbeb6;
+	background-color:#FFD1CB;
 	color:#FFF;
 }
 
@@ -1843,7 +1843,7 @@ a:hover .de-icon.default.light.reverse{
 
 .de-icon.square.light.reverse, .de-icon.circle.light.reverse, .de-icon.rounded.light.reverse{
 	background-color:#FFF;
-	color:#ffbeb6;
+	color:#FFD1CB;
 }
 
 
@@ -1855,8 +1855,8 @@ a:hover .de-icon.default.light.reverse{
 
 .de-icon.outline.reverse{
 	background-color:transparent;
-	color:#ffbeb6;
-	border:1px solid #ffbeb6;
+	color:#FFD1CB;
+	border:1px solid #FFD1CB;
 }
 
 .de-icon.outline.light, .de-icon.outline.light.reverse{
@@ -1866,7 +1866,7 @@ a:hover .de-icon.default.light.reverse{
 }
 
 a:hover .de-icon.circle, a:hover .de-icon.rounded, a:hover .de-icon.square{
-	background-color:#ffbeb6;
+	background-color:#FFD1CB;
 	color:#FFF;
 	border:none;
 }
@@ -1920,7 +1920,7 @@ a:hover .de-icon.effect2 i{
 /* 08.5 Effect Square/Rounded To Circle 	  	  */
 /*------------------------------------------------*/
 a:hover .de-icon.effect3{
-	background-color:#ffbeb6;
+	background-color:#FFD1CB;
 	color:#fff;
 	border-radius: 50%;
 }
@@ -2364,8 +2364,8 @@ form .btn-primary.focus,
 form .btn-primary:active,
 form .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-	background-color:#ffbeb6; 
-	border-color:#ffbeb6;
+	background-color:#FFD1CB; 
+	border-color:#FFD1CB;
 	color:#FFF;
  	border-color: #cccccc;
 }
@@ -2438,7 +2438,7 @@ option{
 }
 
 .message .bg-danger{
-	background-color:#ffbeb6; 
+	background-color:#FFD1CB; 
 }
 
 .message .bg-success{
@@ -2702,7 +2702,7 @@ footer .image-divider.fixed-height{
 }
 
 .his-her-name .custom-heart{
-	background-color:#ffbeb6; 
+	background-color:#FFD1CB; 
 	width:65px; 
 	height:65px; 
 	line-height:65px;	
@@ -2737,7 +2737,7 @@ footer .image-divider.fixed-height{
 	margin-left:16px;
 	height:85px; 
 	width:85px; 
-	background-color:#ffbeb6; 
+	background-color:#FFD1CB; 
 	border-radius:50%;
 }
 
@@ -2805,7 +2805,7 @@ footer .image-divider.fixed-height{
 }
 
 .and{
-	color:#ffbeb6
+	color:#FFD1CB
 }
 
 .border-column{
@@ -2851,7 +2851,7 @@ h2#dont-miss-it-title{
 }
 
 .circle-countdown .countdown-amount {
-	background-color:#ffbeb6;
+	background-color:#FFD1CB;
 	width:85px;
 	height:85px;
 	border-radius:50%;
@@ -2944,7 +2944,7 @@ h2#dont-miss-it-title{
 
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span{
-	background: #ffbeb6;
+	background: #FFD1CB;
 }
 
 /* -------------------------------------------*/
@@ -3118,7 +3118,7 @@ button.mfp-close, button.mfp-arrow {
 }
 
 #nav-menu li a:hover{
-	background-color:#ffbeb6;
+	background-color:#FFD1CB;
 	color:#FFF;
 }
 
