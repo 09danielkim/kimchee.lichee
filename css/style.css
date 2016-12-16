@@ -2506,22 +2506,18 @@ form .has-error .btn-primary{
 	text-align:center; 
 	color:#FFF; 
 	font-family: 'Playfair Display', serif;;
-	-ms-transform: rotate(-10deg); 
+	/*-ms-transform: rotate(-10deg); 
 	-webkit-transform: rotate(-10deg); 
-	transform: rotate(-10deg);
+	transform: rotate(-10deg);*/
 	padding-right:30px;
 	margin-top:0px;
 	margin-bottom:25px;
+	font-variant:small-caps;
 }
 
 #counting{
 	font-size:65px; 
 	line-height:50px
-}
-
-#down{
-	font-size:55px; 
-	line-height:65px;
 }
 
 .simple-countdown{
@@ -2583,17 +2579,18 @@ footer .image-divider.fixed-height{
 	text-align:center; 
 	color:#FFF; 
 	font-family: 'Playfair Display', serif;
-	-ms-transform: rotate(-10deg); 
+	/*-ms-transform: rotate(-10deg); 
 	-webkit-transform: rotate(-10deg); 
-	transform: rotate(-10deg);
+	transform: rotate(-10deg);*/
 	padding-right:30px;
 	margin-top:40px;
 	margin-bottom:25px;
+	font-variant: small-caps;
 }
 
 #thank{
-	font-size:55px; 
-	line-height:45px
+	font-size:60px; 
+	line-height:50px
 }
 
 #you{
